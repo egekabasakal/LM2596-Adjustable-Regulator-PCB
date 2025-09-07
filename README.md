@@ -1,4 +1,4 @@
-# LM2596 Adjustable Regulator PCB
+# LM2596 Adjustable Regulator PCB V0.1.0
 
 Custom PCB design of an adjustable buck converter using LM2596S-ADJ.
 
